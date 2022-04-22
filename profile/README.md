@@ -1,4 +1,4 @@
-### Oracle-Programming-School is non-profit organization & community of developers and software engineers. Our primary goal is to help people in development and guide them in their career. In our community we share our techincal skills and discuss new technologies.
+Oracle-Programming-School is non-profit organization & community of developers and software engineers. Our primary goal is to help people in development and guide them in their career. In our community we share our techincal skills and discuss new technologies.
 
 It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.
 
